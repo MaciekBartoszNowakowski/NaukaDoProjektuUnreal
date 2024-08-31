@@ -13,5 +13,9 @@ UCLASS()
 class NAUKADOKOLA_API UCustomEditableText : public UEditableText
 {
 	GENERATED_BODY()
-	
+
+
+public:
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="Custom")
+	int32 MyIndeks;
 };
