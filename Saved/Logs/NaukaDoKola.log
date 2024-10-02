@@ -1647,3 +1647,460 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.02-13.56.43:698][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.02-13.56.43:702][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2024.10.02-13.56.43:764][321]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.10.02-14.00.16:963][986]LogSlate: Took 0.006911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.02-14.00.31:016][822]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.00.31:017][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.00.31:017][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.00.31:024][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.00.31:024][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.00.31:031][822]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.10.02-14.00.31:271][822]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.10.02-14.00.43:664][548]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-14.00.43:665][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.00.43:665][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.00.43:680][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.00.43:681][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.01.20:186][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.02-14.01.30:939][678]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.02-14.01.30:955][679]LogAutomationController: Ignoring very large delta of 10.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.02-14.02.11:004][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.02-14.02.19:612][ 58]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.02-14.02.19:640][ 59]LogAutomationController: Ignoring very large delta of 8.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.02-14.03.22:233][806]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.10.02-14.03.22:233][806]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.10.02-14.04.22:869][430]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-14.04.22:869][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-14.04.22:878][430]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-14.04.22:878][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-14.04.27:715][717]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.10.02-14.04.30:825][862]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/equipmentIface/W_EqButton.W_EqButton
+[2024.10.02-14.04.30:825][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.04.30:825][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.04.30:835][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.04.30:835][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.04.40:116][396]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.04.40:116][396]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.04.40:116][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.04.40:128][396]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.04.40:128][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.04.49:615][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.02-14.05.06:709][898]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.02-14.05.06:729][899]LogAutomationController: Ignoring very large delta of 17.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.02-14.06.12:143][733]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-14.06.12:143][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-14.06.12:153][733]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-14.06.12:153][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-14.15.06:954][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.10.02-14.15.06:956][775]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapa_z_testrami_do_kola' took 0.026
+[2024.10.02-14.15.06:956][775]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/equipmentIface/W_EquipmentButton] ([2] browsable assets)...
+[2024.10.02-14.15.06:962][775]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton]
+[2024.10.02-14.15.06:962][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/equipmentIface/W_EquipmentButton]
+[2024.10.02-14.15.06:972][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/equipmentIface/W_EquipmentButton_Auto1
+[2024.10.02-14.15.06:973][775]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButton_Auto142F4FF354CA9A6E006041290EA1736FF.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/Autosaves/Game/Widgets/equipmentIface/W_EquipmentButton_Auto1.uasset'
+[2024.10.02-14.15.06:975][775]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.10.02-14.29.13:511][494]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.10.02-14.29.21:896][990]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-14.29.21:987][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.10.02-14.29.22:858][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.29.22:944][ 29]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-14.29.22:945][ 29]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButtonA97133844BE6DAF56EA126B4A66EF2A5.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-14.29.22:955][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.27 sec)
+[2024.10.02-14.29.22:957][ 29]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-14.29.22:957][ 29]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.29.49:780][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.10.02-14.29.49:788][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapa_z_testrami_do_kola' took 0.030
+[2024.10.02-14.29.49:788][614]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/equipmentIface/W_MainWidget] ([2] browsable assets)...
+[2024.10.02-14.29.49:804][614]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget]
+[2024.10.02-14.29.49:804][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/equipmentIface/W_MainWidget]
+[2024.10.02-14.29.49:883][614]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/equipmentIface/W_MainWidget_Auto2
+[2024.10.02-14.29.49:884][614]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidget_Auto26AEE29B14A0DC02E4C86169F2F20FE87.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/Autosaves/Game/Widgets/equipmentIface/W_MainWidget_Auto2.uasset'
+[2024.10.02-14.29.49:886][614]LogFileHelpers: Auto-saving content packages took 0.098
+[2024.10.02-14.34.17:980][471]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-14.34.18:048][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.10.02-14.34.18:658][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.34.18:743][497]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-14.34.18:743][497]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButtonD933070D457BC13191564BA8C4EF6FCA.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-14.34.18:752][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.37 sec)
+[2024.10.02-14.34.18:755][497]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-14.34.18:755][497]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.34.21:462][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.34.21:626][655]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-14.34.21:627][655]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidget500CE0CC4663D67A3256A7ADDF75B988.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-14.34.21:635][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 1.54 sec)
+[2024.10.02-14.34.21:638][655]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-14.34.21:638][655]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-14.36.24:647][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.36.24:749][231]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-14.36.24:750][231]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButtonE39378BC4BE9F1F9A0DDED80871A5EDC.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-14.36.24:761][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.65 sec)
+[2024.10.02-14.36.24:763][231]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-14.36.24:763][231]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.36.25:376][268]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-14.36.25:461][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.10.02-14.36.26:156][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.36.26:243][297]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-14.36.26:244][297]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButtonA95462434FAD39C87C952A8B2739A0E0.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-14.36.26:254][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.75 sec)
+[2024.10.02-14.36.26:255][297]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-14.36.26:255][297]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.37.23:149][644]BlueprintLog: New page: Compile W_MainWidget
+[2024.10.02-14.37.23:209][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.10.02-14.37.24:118][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.37.24:275][688]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-14.37.24:276][688]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidget209CFC944BBEBFF5F4283B9A405BC42A.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-14.37.24:285][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 1.92 sec)
+[2024.10.02-14.37.24:288][688]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-14.37.24:289][688]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-14.37.42:292][707]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-14.37.42:376][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.02-14.37.42:856][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.37.42:935][728]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-14.37.42:936][728]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButton032EF35549E9E33927DE0CB8AFEA537E.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-14.37.42:946][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.01 sec)
+[2024.10.02-14.37.42:947][728]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-14.37.42:947][728]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.37.45:510][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-14.37.45:519][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-14.37.45:519][877]PIE: New page: PIE session: Mapa_z_testrami_do_kola (2 paź 2024, 18:37:45)
+[2024.10.02-14.37.45:519][877]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa_z_testrami_do_kola
+[2024.10.02-14.37.45:526][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007621s)
+[2024.10.02-14.37.45:528][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola to /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola (0.007670s)
+[2024.10.02-14.37.45:546][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.10.02-14.37.45:548][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-14.37.45:549][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-14.37.45:549][877]LogAIModule: Creating AISystem for world Mapa_z_testrami_do_kola
+[2024.10.02-14.37.45:550][877]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2024.10.02-14.37.45:550][877]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.10.02-14.37.45:550][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-14.37.45:550][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-14.37.45:550][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-14.37.45:550][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-14.37.45:550][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-14.37.45:550][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-14.37.45:550][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-14.37.45:550][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-14.37.45:550][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-14.37.45:550][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-14.37.45:550][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-14.37.45:553][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-14.37.45:584][877]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.02-14.37.45:584][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-14.37.45:584][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-14.37.45:584][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-14.37.45:585][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.10.02-14.37.45:585][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.10.02-14.37.45:588][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.10.02-14.37.45:588][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.10.02-14.37.45:588][877]LogInit: FAudioDevice initialized with ID 8.
+[2024.10.02-14.37.45:588][877]LogAudio: Display: Audio Device (ID: 8) registered with world 'Mapa_z_testrami_do_kola'.
+[2024.10.02-14.37.45:588][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.02-14.37.45:592][877]LogLoad: Game class is 'GM_Base_C'
+[2024.10.02-14.37.45:594][877]LogWorld: Bringing World /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola up for play (max tick rate 60) at 2024.10.02-16.37.45
+[2024.10.02-14.37.45:595][877]LogWorld: Bringing up level for play took: 0.002915
+[2024.10.02-14.37.45:598][877]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.10.02-14.37.45:609][877]PIE: Server logged in
+[2024.10.02-14.37.45:610][877]PIE: Play in editor total start time 0,09 seconds.
+[2024.10.02-14.37.51:864][144]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.02-14.37.51:864][144]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.10.02-14.37.51:864][144]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.10.02-14.37.53:279][229]LogBlueprintUserMessages: [W_Przy_Button_0] 0
+[2024.10.02-14.37.53:930][268]LogBlueprintUserMessages: [W_Przy_Button_1] 1
+[2024.10.02-14.37.54:613][309]LogBlueprintUserMessages: [W_Przy_Button_2] 2
+[2024.10.02-14.37.55:179][343]LogBlueprintUserMessages: [W_Przy_Button_3] 3
+[2024.10.02-14.37.55:896][386]LogBlueprintUserMessages: [W_Przy_Button_4] 4
+[2024.10.02-14.37.56:446][419]LogBlueprintUserMessages: [W_Przy_Button_5] 5
+[2024.10.02-14.37.57:063][456]LogBlueprintUserMessages: [W_Przy_Button_6] 6
+[2024.10.02-14.37.57:563][486]LogBlueprintUserMessages: [W_Przy_Button_7] 7
+[2024.10.02-14.37.58:446][539]LogBlueprintUserMessages: [W_Przy_Button_8] 8
+[2024.10.02-14.37.58:930][568]LogBlueprintUserMessages: [W_Przy_Button_9] 9
+[2024.10.02-14.37.59:530][604]LogBlueprintUserMessages: [W_Przy_Button_10] 10
+[2024.10.02-14.38.00:029][634]LogBlueprintUserMessages: [W_Przy_Button_11] 11
+[2024.10.02-14.38.00:047][635]LogBlueprintUserMessages: [BP_SheepGate_C_1] 1
+[2024.10.02-14.38.00:712][675]LogBlueprintUserMessages: [W_Przy_Button_12] 12
+[2024.10.02-14.38.01:329][712]LogBlueprintUserMessages: [W_Przy_Button_13] 13
+[2024.10.02-14.38.01:813][741]LogBlueprintUserMessages: [W_Przy_Button_14] 14
+[2024.10.02-14.38.02:780][799]LogBlueprintUserMessages: [W_Przy_Button_15] 15
+[2024.10.02-14.38.04:046][875]LogBlueprintUserMessages: [W_Szp_Button_0] 0
+[2024.10.02-14.38.04:763][918]LogBlueprintUserMessages: [W_Szp_Button_1] 1
+[2024.10.02-14.38.05:296][950]LogBlueprintUserMessages: [W_Szp_Button_2] 2
+[2024.10.02-14.38.05:763][978]LogBlueprintUserMessages: [W_Szp_Button_3] 3
+[2024.10.02-14.38.06:229][  6]LogBlueprintUserMessages: [W_Szp_Button_4] 4
+[2024.10.02-14.38.06:779][ 39]LogBlueprintUserMessages: [W_Szp_Button_5] 5
+[2024.10.02-14.38.07:479][ 81]LogBlueprintUserMessages: [W_Szp_Button_6] 6
+[2024.10.02-14.38.08:062][116]LogBlueprintUserMessages: [W_Szp_Button_7] 7
+[2024.10.02-14.38.09:279][189]LogBlueprintUserMessages: [W_Szp_Button_8] 8
+[2024.10.02-14.38.09:780][219]LogBlueprintUserMessages: [W_Szp_Button_9] 9
+[2024.10.02-14.38.11:363][314]LogBlueprintUserMessages: [W_Szp_Button_10] 10
+[2024.10.02-14.38.12:246][367]LogBlueprintUserMessages: [W_Szp_Button_11] 11
+[2024.10.02-14.38.12:880][405]LogBlueprintUserMessages: [W_Szp_Button_12] 12
+[2024.10.02-14.38.13:446][439]LogBlueprintUserMessages: [W_Szp_Button_13] 13
+[2024.10.02-14.38.14:063][476]LogBlueprintUserMessages: [W_Szp_Button_14] 14
+[2024.10.02-14.38.14:546][505]LogBlueprintUserMessages: [W_Szp_Button_15] 15
+[2024.10.02-14.38.14:764][518]LogBlueprintUserMessages: [BP_SheepGate_C_1] 2
+[2024.10.02-14.38.15:446][559]LogBlueprintUserMessages: [W_Szp_Button_16] 16
+[2024.10.02-14.38.15:829][582]LogBlueprintUserMessages: [W_Szp_Button_17] 17
+[2024.10.02-14.38.16:213][605]LogBlueprintUserMessages: [W_Szp_Button_18] 18
+[2024.10.02-14.38.16:630][630]LogBlueprintUserMessages: [W_Szp_Button_19] 19
+[2024.10.02-14.38.17:163][662]LogBlueprintUserMessages: [W_Szp_Button_20] 20
+[2024.10.02-14.38.17:867][704]LogBlueprintUserMessages: [W_Szp_Button_21] 21
+[2024.10.02-14.38.18:316][731]LogBlueprintUserMessages: [W_Szp_Button_22] 22
+[2024.10.02-14.38.20:434][858]LogBlueprintUserMessages: [W_Szp_Button_23] 23
+[2024.10.02-14.38.22:684][993]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.10.02-14.38.22:685][993]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.10.02-14.39.32:156][161]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.02-14.39.32:156][161]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.10.02-14.39.33:401][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-14.39.33:401][234]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa_z_testrami_do_kola
+[2024.10.02-14.39.33:401][234]LogWorld: UWorld::CleanupWorld for Mapa_z_testrami_do_kola, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-14.39.33:401][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-14.39.33:405][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-14.39.33:409][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-14.39.33:421][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-14.39.33:422][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.02-14.39.33:422][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.02-14.39.33:424][234]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.02-14.39.33:430][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-14.39.33:433][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.02-14.39.33:495][235]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.10.02-14.40.57:449][206]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-14.40.57:520][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.10.02-14.40.58:529][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.40.58:617][256]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-14.40.58:618][256]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButton91A727394E6178DB34790898A7614609.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-14.40.58:628][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.11 sec)
+[2024.10.02-14.40.58:629][256]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-14.40.58:629][256]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.41.32:614][255]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-14.41.32:685][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.10.02-14.41.33:472][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.41.33:555][290]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-14.41.33:556][290]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButtonC0D66D07443E579A6BE99BB8E89F32D9.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-14.41.33:565][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.20 sec)
+[2024.10.02-14.41.33:567][290]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-14.41.33:567][290]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.42.14:646][696]BlueprintLog: New page: Compile W_MainWidget
+[2024.10.02-14.42.14:706][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.10.02-14.42.15:441][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.42.15:602][728]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-14.42.15:603][728]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidgetC6468BE04FF2F0DA398A36AC9D73D2DD.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-14.42.15:612][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 2.37 sec)
+[2024.10.02-14.42.15:615][728]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-14.42.15:615][728]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-14.45.28:412][252]BlueprintLog: New page: Compile BP_TopDown_Char
+[2024.10.02-14.45.28:496][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.10.02-14.45.29:885][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.45.30:115][327]LogSavePackage: Moving output files for package: /Game/Character/WrobelCharacter/BP_TopDown_Char
+[2024.10.02-14.45.30:116][327]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/BP_TopDown_CharB2D46F2243C084AC05A427BE9579D1BB.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Character/WrobelCharacter/BP_TopDown_Char.uasset'
+[2024.10.02-14.45.30:125][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 239 ms (total: 2.61 sec)
+[2024.10.02-14.45.30:127][327]AssetCheck: New page: Asset Save: BP_TopDown_Char
+[2024.10.02-14.45.30:128][327]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char
+[2024.10.02-14.49.06:410][262]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-14.49.06:517][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.10.02-14.49.08:169][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.49.08:261][351]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-14.49.08:262][351]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButton5778627F4FDDF683C758148F720C7959.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-14.49.08:273][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.71 sec)
+[2024.10.02-14.49.08:275][351]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-14.49.08:275][351]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-14.49.10:360][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.49.10:516][468]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-14.49.10:518][468]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidget6DAC7AF3475D205ABA0E2FA915DF76B6.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-14.49.10:528][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 2.88 sec)
+[2024.10.02-14.49.10:531][468]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-14.49.10:531][468]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-14.51.14:661][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.51.14:855][ 74]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.10.02-14.51.14:920][ 74]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.065 s
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: === Handled ensure: ===
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: 
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: Ensure condition failed: false  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerSave.cpp] [Line: 359] 
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: Name "New Enumerator 0" is not mapped when saving ../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidgetE7429B6443D821CED4BE2882B3658956.tmp (object: WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget, property: NameProperty /Script/Engine.Blueprint:CategorySorting.CategorySorting). This can mean that this object serialize function is not deterministic between reference harvesting and serialization.
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: Stack: 
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02c5a7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff03694227 UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff03720622 UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff028e2b50 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02d04948 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02d69f17 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02ae1e8e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02adeecf UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02c956af UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02c94a3e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02c9439b UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef9246c17 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef924682a UnrealEditor-Engine.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed5eddc5f UnrealEditor-UMGEditor.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffed5be06ec UnrealEditor-UMGEditor.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02d772a2 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02d6329d UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02d4edf8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02d61efc UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff02d621c9 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef6e3e30e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef6e3eaab UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef6e813aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef6e803cd UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff035d47a6 UnrealEditor-Core.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffefad1ee1b UnrealEditor-Engine.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef7a234e0 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef72794c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef7277d4d UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef72b3960 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef72b3f93 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef79ad461 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ffef797e33b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff01daaeb0 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff01e9411f UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff01fc8672 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff01f99d8a UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff0203a5fa UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff0203df65 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff0205f3e8 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff01db3b5a UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff01e1e365 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff01e0b562 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff01dfe2fa UnrealEditor-Slate.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff745d7dc6 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff745bb83f UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff745dab29 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff745b32e3 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff938c82e1 USER32.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff938c7da1 USER32.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff745dc226 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff7997a76f2 UnrealEditor.exe!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff7997cd28c UnrealEditor.exe!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff7997cd37a UnrealEditor.exe!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff7997d0854 UnrealEditor.exe!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff7997e6984 UnrealEditor.exe!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007ff7997e9d7a UnrealEditor.exe!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff92a0257d KERNEL32.DLL!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: [Callstack] 0x00007fff9430af28 ntdll.dll!UnknownFunction []
+[2024.10.02-14.51.14:920][ 74]LogOutputDevice: Error: 
+[2024.10.02-14.51.14:922][ 74]LogStats:                SubmitErrorReport -  0.000 s
+[2024.10.02-14.51.15:810][ 74]LogStats:                    SendNewReport -  0.889 s
+[2024.10.02-14.51.15:811][ 74]LogStats:             FDebug::EnsureFailed -  0.956 s
+[2024.10.02-14.53.03:130][ 74]LogDerivedDataCache: C:/Users/macie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.146 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5126 files in 6860 folders with total size 661 MiB.
+[2024.10.02-14.53.15:085][ 74]LogSlate: Window 'Message' being destroyed
+[2024.10.02-14.53.15:089][ 74]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Widgets/equipmentIface/W_MainWidget' (W_MainWidget.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2024.10.02-14.53.15:190][ 74]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-14.53.15:191][ 74]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidgetDF1FCF5749BBF2CCA03E048CBD734BC4.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-14.53.15:198][ 74]EditorErrors: New page: Save Output
+[2024.10.02-14.53.15:198][ 74]EditorErrors: Error: Name "New Enumerator 0" is not mapped when saving ../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidgetE7429B6443D821CED4BE2882B3658956.tmp (object: WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget, property: NameProperty /Script/Engine.Blueprint:CategorySorting.CategorySorting). This can mean that this object serialize function is not deterministic between reference harvesting and serialization.
+[2024.10.02-14.53.15:264][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 2:00 min (total: 2:03 min)
+[2024.10.02-14.53.15:269][ 74]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-14.53.15:269][ 74]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-14.53.15:356][ 74]LogAutomationController: Ignoring very large delta of 120.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.02-14.59.19:526][361]BlueprintLog: New page: Compile W_MainWidget
+[2024.10.02-14.59.19:604][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.10.02-14.59.20:974][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-14.59.21:143][432]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-14.59.21:144][432]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidgetC841AF344A1D6B6D0621FC8C24EDA862.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-14.59.21:155][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 2:03 min)
+[2024.10.02-14.59.21:158][432]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-14.59.21:159][432]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-15.00.01:630][787]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-15.00.01:774][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.10.02-15.00.02:414][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-15.00.02:500][816]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-15.00.02:500][816]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButton74EE858F434BCB2E4F2BE7B978ABEFAB.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-15.00.02:510][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 2:03 min)
+[2024.10.02-15.00.02:512][816]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-15.00.02:512][816]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-15.00.38:228][895]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-15.00.38:350][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.10.02-15.00.38:881][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-15.00.38:959][917]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-15.00.38:960][917]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButton318EB9F14333744992F27DA08FDE7594.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-15.00.38:968][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 2:03 min)
+[2024.10.02-15.00.38:970][917]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-15.00.38:970][917]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-15.00.57:162][970]BlueprintLog: New page: Compile W_MainWidget
+[2024.10.02-15.00.57:226][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.10.02-15.00.57:940][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-15.00.58:122][  4]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-15.00.58:123][  4]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidgetC706A8664ACF9ADC30DEA9A2B3E91D8E.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-15.00.58:132][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 2:04 min)
+[2024.10.02-15.00.58:135][  4]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-15.00.58:135][  4]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-15.00.59:623][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-15.00.59:633][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-15.00.59:634][ 86]PIE: New page: PIE session: Mapa_z_testrami_do_kola (2 paź 2024, 19:00:59)
+[2024.10.02-15.00.59:669][ 86]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa_z_testrami_do_kola
+[2024.10.02-15.00.59:676][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006907s)
+[2024.10.02-15.00.59:676][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola to /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola (0.006961s)
+[2024.10.02-15.00.59:696][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.10.02-15.00.59:698][ 86]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-15.00.59:698][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-15.00.59:698][ 86]LogAIModule: Creating AISystem for world Mapa_z_testrami_do_kola
+[2024.10.02-15.00.59:699][ 86]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2024.10.02-15.00.59:699][ 86]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.10.02-15.00.59:699][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-15.00.59:699][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-15.00.59:699][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-15.00.59:699][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-15.00.59:699][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-15.00.59:699][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-15.00.59:699][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-15.00.59:699][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-15.00.59:700][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-15.00.59:700][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-15.00.59:700][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-15.00.59:702][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-15.00.59:730][ 86]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.02-15.00.59:730][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-15.00.59:730][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-15.00.59:730][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-15.00.59:731][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.10.02-15.00.59:731][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.10.02-15.00.59:733][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.10.02-15.00.59:733][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.10.02-15.00.59:733][ 86]LogInit: FAudioDevice initialized with ID 9.
+[2024.10.02-15.00.59:733][ 86]LogAudio: Display: Audio Device (ID: 9) registered with world 'Mapa_z_testrami_do_kola'.
+[2024.10.02-15.00.59:734][ 86]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.02-15.00.59:737][ 86]LogLoad: Game class is 'GM_Base_C'
+[2024.10.02-15.00.59:740][ 86]LogWorld: Bringing World /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola up for play (max tick rate 60) at 2024.10.02-17.00.59
+[2024.10.02-15.00.59:740][ 86]LogWorld: Bringing up level for play took: 0.003282
+[2024.10.02-15.00.59:743][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.10.02-15.00.59:755][ 86]PIE: Server logged in
+[2024.10.02-15.00.59:756][ 86]PIE: Play in editor total start time 0,123 seconds.
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-15.01.02:029][163]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-15.01.06:346][422]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.02-15.01.06:346][422]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.10.02-15.01.06:346][422]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.10.02-15.01.11:694][743]LogBlueprintUserMessages: [W_Szp_Button_0] 0
+[2024.10.02-15.01.12:961][819]LogBlueprintUserMessages: [W_Przy_Button_8] 8
+[2024.10.02-15.01.15:460][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-15.01.15:461][967]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa_z_testrami_do_kola
+[2024.10.02-15.01.15:461][967]LogWorld: UWorld::CleanupWorld for Mapa_z_testrami_do_kola, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-15.01.15:461][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-15.01.15:464][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-15.01.15:469][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-15.01.15:484][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-15.01.15:485][967]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.02-15.01.15:485][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.02-15.01.15:487][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.02-15.01.15:494][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-15.01.15:496][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.10.02-15.01.15:561][968]LogPlayLevel: Display: Destroying online subsystem :Context_20
