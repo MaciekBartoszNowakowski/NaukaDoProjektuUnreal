@@ -1452,3 +1452,458 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.10.02-18.44.44:886][132]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2024.10.02-18.46.12:133][355]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
 [2024.10.02-18.46.12:133][355]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.10.02-18.47.50:491][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.10.02-18.47.50:494][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mapa_z_testrami_do_kola' took 0.018
+[2024.10.02-18.47.50:495][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/equipmentIface/W_MainWidget] ([2] browsable assets)...
+[2024.10.02-18.47.50:509][398]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget]
+[2024.10.02-18.47.50:510][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/equipmentIface/W_MainWidget]
+[2024.10.02-18.47.50:581][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/equipmentIface/W_MainWidget_Auto1
+[2024.10.02-18.47.50:582][398]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidget_Auto1F1BC93094FF39699D6EE51B874A0D369.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/Autosaves/Game/Widgets/equipmentIface/W_MainWidget_Auto1.uasset'
+[2024.10.02-18.47.50:584][398]LogFileHelpers: Auto-saving content packages took 0.090
+[2024.10.02-18.52.25:616][114]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.10.02-18.52.33:783][582]LogSlate: Took 0.006528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.10.02-18.53.46:265][881]BlueprintLog: New page: Compile W_MainWidget
+[2024.10.02-18.53.46:338][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.10.02-18.53.47:171][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-18.53.47:352][921]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-18.53.47:353][921]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidgetB8F6E78D455C4CEA669AB38086097056.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-18.53.47:362][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 649 ms)
+[2024.10.02-18.53.47:365][921]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-18.53.47:365][921]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-18.53.50:579][107]BlueprintLog: New page: Compile W_MainWidget
+[2024.10.02-18.53.50:643][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.02-18.53.51:380][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-18.53.51:538][141]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-18.53.51:539][141]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidget2A8CA0854799F8BE9B40599D957A2362.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-18.53.51:547][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 816 ms)
+[2024.10.02-18.53.51:550][141]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-18.53.51:550][141]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-18.54.03:556][849]BlueprintLog: New page: Compile W_MainWidget
+[2024.10.02-18.54.03:617][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.10.02-18.54.04:350][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-18.54.04:509][883]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_MainWidget
+[2024.10.02-18.54.04:510][883]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_MainWidgetAA25750E476E35F45D0C9C8C84822CE1.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_MainWidget.uasset'
+[2024.10.02-18.54.04:519][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 986 ms)
+[2024.10.02-18.54.04:522][883]AssetCheck: New page: Asset Save: W_MainWidget
+[2024.10.02-18.54.04:522][883]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget
+[2024.10.02-18.54.48:037][443]BlueprintLog: New page: Compile BP_TopDown_Char
+[2024.10.02-18.54.48:211][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.10.02-18.54.49:023][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-18.54.49:288][481]LogSavePackage: Moving output files for package: /Game/Character/WrobelCharacter/BP_TopDown_Char
+[2024.10.02-18.54.49:289][481]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/BP_TopDown_CharB039C8C9419DC031B7E0D39ECDA463FF.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Character/WrobelCharacter/BP_TopDown_Char.uasset'
+[2024.10.02-18.54.49:296][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 271 ms (total: 1.25 sec)
+[2024.10.02-18.54.49:299][481]AssetCheck: New page: Asset Save: BP_TopDown_Char
+[2024.10.02-18.54.49:299][481]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char
+[2024.10.02-18.55.47:709][926]BlueprintLog: New page: Compile BP_TopDown_Char
+[2024.10.02-18.55.47:790][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.10.02-18.55.48:621][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-18.55.48:833][967]LogSavePackage: Moving output files for package: /Game/Character/WrobelCharacter/BP_TopDown_Char
+[2024.10.02-18.55.48:833][967]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/BP_TopDown_CharFA09CAFF48A94B46B934D0AAAE15BDC0.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Character/WrobelCharacter/BP_TopDown_Char.uasset'
+[2024.10.02-18.55.48:842][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 1.47 sec)
+[2024.10.02-18.55.48:845][967]AssetCheck: New page: Asset Save: BP_TopDown_Char
+[2024.10.02-18.55.48:845][967]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char
+[2024.10.02-19.00.46:259][416]BlueprintLog: New page: Compile BP_TopDown_Char
+[2024.10.02-19.00.46:344][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.10.02-19.00.47:154][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-19.00.47:338][454]LogSavePackage: Moving output files for package: /Game/Character/WrobelCharacter/BP_TopDown_Char
+[2024.10.02-19.00.47:338][454]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/BP_TopDown_Char8D6A50FA4D025F79BB82B6B1ECA5B5F6.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Character/WrobelCharacter/BP_TopDown_Char.uasset'
+[2024.10.02-19.00.47:347][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 1.67 sec)
+[2024.10.02-19.00.47:350][454]AssetCheck: New page: Asset Save: BP_TopDown_Char
+[2024.10.02-19.00.47:350][454]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char
+[2024.10.02-19.00.49:452][576]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-19.00.49:462][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-19.00.49:462][576]PIE: New page: PIE session: Mapa_z_testrami_do_kola (2 paź 2024, 23:00:49)
+[2024.10.02-19.00.49:462][576]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa_z_testrami_do_kola
+[2024.10.02-19.00.49:469][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007319s)
+[2024.10.02-19.00.49:469][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola to /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola (0.007367s)
+[2024.10.02-19.00.49:487][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.10.02-19.00.49:491][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-19.00.49:491][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-19.00.49:492][576]LogAIModule: Creating AISystem for world Mapa_z_testrami_do_kola
+[2024.10.02-19.00.49:492][576]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2024.10.02-19.00.49:492][576]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.02-19.00.49:492][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-19.00.49:492][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-19.00.49:492][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-19.00.49:492][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-19.00.49:492][576]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-19.00.49:492][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-19.00.49:492][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-19.00.49:492][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-19.00.49:493][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-19.00.49:493][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-19.00.49:493][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-19.00.49:496][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-19.00.49:524][576]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.02-19.00.49:524][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-19.00.49:524][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-19.00.49:524][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-19.00.49:524][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.02-19.00.49:524][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.02-19.00.49:528][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.02-19.00.49:528][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.02-19.00.49:528][576]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.02-19.00.49:528][576]LogAudio: Display: Audio Device (ID: 5) registered with world 'Mapa_z_testrami_do_kola'.
+[2024.10.02-19.00.49:528][576]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.02-19.00.49:530][576]LogLoad: Game class is 'GM_Base_C'
+[2024.10.02-19.00.49:533][576]LogWorld: Bringing World /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola up for play (max tick rate 60) at 2024.10.02-21.00.49
+[2024.10.02-19.00.49:533][576]LogWorld: Bringing up level for play took: 0.002980
+[2024.10.02-19.00.49:536][576]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.10.02-19.00.49:548][576]PIE: Server logged in
+[2024.10.02-19.00.49:549][576]PIE: Play in editor total start time 0,087 seconds.
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.00.50:892][635]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.00.57:808][ 50]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.02-19.00.57:808][ 50]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.10.02-19.00.57:808][ 50]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.10.02-19.01.19:167][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-19.01.19:167][330]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa_z_testrami_do_kola
+[2024.10.02-19.01.19:168][330]LogWorld: UWorld::CleanupWorld for Mapa_z_testrami_do_kola, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-19.01.19:168][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-19.01.19:171][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-19.01.19:177][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-19.01.19:191][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-19.01.19:191][330]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.02-19.01.19:192][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.02-19.01.19:193][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.02-19.01.19:198][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-19.01.19:202][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.10.02-19.01.19:256][333]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.10.02-19.01.32:800][129]BlueprintLog: New page: Compile W_EquipmentButton
+[2024.10.02-19.01.32:877][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.02-19.01.33:479][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.02-19.01.33:567][157]LogSavePackage: Moving output files for package: /Game/Widgets/equipmentIface/W_EquipmentButton
+[2024.10.02-19.01.33:567][157]LogSavePackage: Moving '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Saved/W_EquipmentButton083A1BA743CA2AEE96C16390E729FF14.tmp' to '../../../../../../Users/macie/Documents/Unreal Projects/NaukaDoKola/Content/Widgets/equipmentIface/W_EquipmentButton.uasset'
+[2024.10.02-19.01.33:575][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.76 sec)
+[2024.10.02-19.01.33:577][157]AssetCheck: New page: Asset Save: W_EquipmentButton
+[2024.10.02-19.01.33:577][157]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/equipmentIface/W_EquipmentButton.W_EquipmentButton
+[2024.10.02-19.01.38:146][421]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.02-19.01.38:155][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.02-19.01.38:156][421]PIE: New page: PIE session: Mapa_z_testrami_do_kola (2 paź 2024, 23:01:38)
+[2024.10.02-19.01.38:156][421]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Mapa_z_testrami_do_kola
+[2024.10.02-19.01.38:163][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006897s)
+[2024.10.02-19.01.38:163][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola to /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola (0.006940s)
+[2024.10.02-19.01.38:181][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.02-19.01.38:185][421]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.02-19.01.38:186][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.02-19.01.38:186][421]LogAIModule: Creating AISystem for world Mapa_z_testrami_do_kola
+[2024.10.02-19.01.38:186][421]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2024.10.02-19.01.38:186][421]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.02-19.01.38:186][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.02-19.01.38:187][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.02-19.01.38:187][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.02-19.01.38:187][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.02-19.01.38:187][421]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.02-19.01.38:187][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.02-19.01.38:187][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.02-19.01.38:187][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.02-19.01.38:187][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.02-19.01.38:187][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.02-19.01.38:187][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.02-19.01.38:189][421]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.02-19.01.38:213][421]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.02-19.01.38:213][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.02-19.01.38:213][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.02-19.01.38:213][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.02-19.01.38:214][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.02-19.01.38:214][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.10.02-19.01.38:216][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.02-19.01.38:216][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.02-19.01.38:216][421]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.02-19.01.38:216][421]LogAudio: Display: Audio Device (ID: 6) registered with world 'Mapa_z_testrami_do_kola'.
+[2024.10.02-19.01.38:216][421]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.02-19.01.38:219][421]LogLoad: Game class is 'GM_Base_C'
+[2024.10.02-19.01.38:221][421]LogWorld: Bringing World /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola up for play (max tick rate 60) at 2024.10.02-21.01.38
+[2024.10.02-19.01.38:222][421]LogWorld: Bringing up level for play took: 0.002552
+[2024.10.02-19.01.38:224][421]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.10.02-19.01.38:235][421]PIE: Server logged in
+[2024.10.02-19.01.38:235][421]PIE: Play in editor total start time 0,08 seconds.
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'NewItemArray' of length 16 in '/Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:AddItemGeneral'!
+[2024.10.02-19.01.39:357][471]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.43:926][742]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.02-19.01.43:926][742]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.10.02-19.01.43:926][742]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to swap elements [8] and [16] in array InventorySzpargalyArray. Available index range: [0 15)!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Attempted to access index 16 from array InventorySzpargalyArray of length 16!
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:0422
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Accessed None reading structure Icon_9_BFD48CF246AD8DBE0ACB428595CC8A6F
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:0422
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Icon_9_BFD48CF246AD8DBE0ACB428595CC8A6F". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Attempted to access index 16 from array InventorySzpargalyArray of length 16!
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:043E
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Accessed None reading structure amount_15_8A7AA87744F912148298C58AF3EA3221
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:043E
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_15_8A7AA87744F912148298C58AF3EA3221". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Attempted to access index 16 from array InventorySzpargalyArray of length 16!
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:045A
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Accessed None reading structure ItemCategory_20_3FF7189742F304A9C2DE4AAF95CFFAC4
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:045A
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure ItemCategory_20_3FF7189742F304A9C2DE4AAF95CFFAC4". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Attempted to access index 16 from array InventorySzpargalyArray of length 16!
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:0476
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Accessed None reading structure Description_12_E92BD41144E4B26C8EF814B5B6D6D7F3
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:0476
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Description_12_E92BD41144E4B26C8EF814B5B6D6D7F3". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:0051
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Category Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Attempted to assign to None
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:0066
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Category Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:00BF
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set ItemDescription Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Attempted to assign to None
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:00D4
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set ItemDescription Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqButtons [16/15]!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqImages' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:019D
+[2024.10.02-19.01.51:696][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set Brush from Texture Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqImages' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqImages [16/15]!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqAmounts' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.51:696][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:697][208]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:02B4
+[2024.10.02-19.01.51:697][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Text Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.51:697][208]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqAmounts' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.51:697][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.51:697][208]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqAmounts [16/15]!
+[2024.10.02-19.01.51:697][208]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Script Msg: Attempted to swap elements [16] and [8] in array InventorySzpargalyArray. Available index range: [0 15)!
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Attempted to access index 16 from array InventorySzpargalyArray of length 16!
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:0383
+[2024.10.02-19.01.53:096][292]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Accessed None reading structure Icon_9_BFD48CF246AD8DBE0ACB428595CC8A6F
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:0383
+[2024.10.02-19.01.53:096][292]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Icon_9_BFD48CF246AD8DBE0ACB428595CC8A6F". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Attempted to access index 16 from array InventorySzpargalyArray of length 16!
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:039F
+[2024.10.02-19.01.53:096][292]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Accessed None reading structure amount_15_8A7AA87744F912148298C58AF3EA3221
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:039F
+[2024.10.02-19.01.53:096][292]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_15_8A7AA87744F912148298C58AF3EA3221". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Attempted to access index 16 from array InventorySzpargalyArray of length 16!
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:03BB
+[2024.10.02-19.01.53:096][292]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Accessed None reading structure ItemCategory_20_3FF7189742F304A9C2DE4AAF95CFFAC4
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:03BB
+[2024.10.02-19.01.53:096][292]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure ItemCategory_20_3FF7189742F304A9C2DE4AAF95CFFAC4". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Attempted to access index 16 from array InventorySzpargalyArray of length 16!
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:03D7
+[2024.10.02-19.01.53:096][292]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Accessed None reading structure Description_12_E92BD41144E4B26C8EF814B5B6D6D7F3
+	BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+	Function /Game/Character/WrobelCharacter/BP_TopDown_Char.BP_TopDown_Char_C:swapItems:03D7
+[2024.10.02-19.01.53:096][292]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Description_12_E92BD41144E4B26C8EF814B5B6D6D7F3". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:096][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:0051
+[2024.10.02-19.01.53:097][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Category Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Attempted to assign to None
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:0066
+[2024.10.02-19.01.53:097][292]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Category Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:00BF
+[2024.10.02-19.01.53:097][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set ItemDescription Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Attempted to assign to None
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:00D4
+[2024.10.02-19.01.53:097][292]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set ItemDescription Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqButtons [16/15]!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqImages' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:019D
+[2024.10.02-19.01.53:097][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set Brush from Texture Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqImages' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqImages [16/15]!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqAmounts' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:02B4
+[2024.10.02-19.01.53:097][292]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Text Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqAmounts' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqAmounts [16/15]!
+[2024.10.02-19.01.53:097][292]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Script Msg: Attempted to swap elements [17] and [8] in array InventorySzpargalyArray. Available index range: [0 15)!
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Attempted to access index 17 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Icon_9_BFD48CF246AD8DBE0ACB428595CC8A6F". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Attempted to access index 17 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_15_8A7AA87744F912148298C58AF3EA3221". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Attempted to access index 17 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure ItemCategory_20_3FF7189742F304A9C2DE4AAF95CFFAC4". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Attempted to access index 17 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Description_12_E92BD41144E4B26C8EF814B5B6D6D7F3". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:0051
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Category Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Attempted to assign to None
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:0066
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Category Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:729][390]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:00BF
+[2024.10.02-19.01.54:729][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set ItemDescription Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Attempted to assign to None
+	W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+	Function /Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage:00D4
+[2024.10.02-19.01.54:730][390]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set ItemDescription Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqButtons [17/15]!
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EqImages' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:730][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set Brush from Texture Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EqImages' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqImages [17/15]!
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EqAmounts' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:730][390]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Text Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'EqAmounts' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqAmounts [17/15]!
+[2024.10.02-19.01.54:730][390]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.01.57:880][579]LogBlueprintUserMessages: [BP_SheepGate_C_1] 1
+[2024.10.02-19.02.00:545][739]LogScript: Warning: Script Msg: Attempted to swap elements [9] and [16] in array InventorySzpargalyArray. Available index range: [0 15)!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: BP_TopDown_Char_C /Game/UEDPIE_0_Mapa_z_testrami_do_kola.Mapa_z_testrami_do_kola:PersistentLevel.BP_TopDown_Char_C_0
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Icon_9_BFD48CF246AD8DBE0ACB428595CC8A6F". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_15_8A7AA87744F912148298C58AF3EA3221". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure ItemCategory_20_3FF7189742F304A9C2DE4AAF95CFFAC4". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Attempted to access index 16 from array InventorySzpargalyArray of length 16!". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Description_12_E92BD41144E4B26C8EF814B5B6D6D7F3". Node:  Update Image Graph:  swapItems Function:  Swap Items Blueprint:  BP_TopDown_Char
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Category Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Category Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set ItemDescription Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set ItemDescription Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqButtons' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqButtons [16/15]!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqImages' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set Brush from Texture Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqImages' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqImages [16/15]!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqAmounts' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Text Graph:  changeImage Function:  Change Image Blueprint:  W_MainWidget
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'EqAmounts' of length 16 in '/Game/Widgets/equipmentIface/W_MainWidget.W_MainWidget_C:changeImage'!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg: Attempted to set an invalid index on array EqAmounts [16/15]!
+[2024.10.02-19.02.00:546][739]LogScript: Warning: Script Msg called by: W_MainWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.W_MainWidget_C_0
+[2024.10.02-19.02.12:917][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-19.02.12:917][479]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Mapa_z_testrami_do_kola
+[2024.10.02-19.02.12:917][479]LogWorld: UWorld::CleanupWorld for Mapa_z_testrami_do_kola, bSessionEnded=true, bCleanupResources=true
+[2024.10.02-19.02.12:918][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-19.02.12:921][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.02-19.02.12:926][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.02-19.02.12:941][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.02-19.02.12:942][479]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.02-19.02.12:942][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.02-19.02.12:943][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.02-19.02.12:950][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.02-19.02.12:954][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.10.02-19.02.13:167][480]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.10.02-19.02.25:830][146]LogSlate: Window 'Message Log' being destroyed
+[2024.10.02-19.02.25:834][146]LogSlate: Window 'Message Log' being destroyed
